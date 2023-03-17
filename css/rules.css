@@ -41,3 +41,17 @@ p {
 .nav{
     gap:10px;
 }
+li {
+    color: #1aff00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+}
+span {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+}
